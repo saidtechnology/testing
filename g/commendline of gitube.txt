@@ -1,0 +1,31 @@
+===================================================================
+git init
+git add .
+git commit -m 'The First Project'
+git remote add origin https://github.com/saidtechnology/testing.git
+git push origin master
+
+===================================================================
+git add .
+git commit -m ‘add fille’
+git push origin master
+
+===================================================================
+git pull origin master
+
+===================================================================
+git rm -r —-cached app
+git commit -m ‘delete app’
+git push origin master
+
+===================================================================
+cd Desktop
+git clone https://github.com/saidtechnology/testing.git
+
+=================================================================== 
+git add .
+git commit -m ‘add fille’
+git log
+git push origin master
+
+===================================================================
